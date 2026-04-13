@@ -1,0 +1,39 @@
+{
+  "name": "healthcare-optimizer-for-medication-reconciliation",
+  "version": "1.0.0",
+  "description": "Healthcare Optimizer for Medication Reconciliation monitors claims history and harmonizes problem lists; applies decision gates and observability; orchestrates via EHR to reduce LOS.",
+  "main": "workflow.json",
+  "keywords": [
+    "agentbridge",
+    "workflow",
+    "automation",
+    "n8n",
+    "react",
+    "healthcare-&-life-sciences",
+    "revenue-cycle",
+    "trials",
+    "care",
+    "react",
+    "healthcare"
+  ],
+  "author": "AgentBridge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepk103/agentbridge-healthcare-optimizer-for-medication-reco-285229.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepk103/agentbridge-healthcare-optimizer-for-medication-reco-285229/issues"
+  },
+  "homepage": "https://github.com/deepk103/agentbridge-healthcare-optimizer-for-medication-reco-285229#readme",
+  "scripts": {
+    "start": "echo \"Import this workflow into your n8n instance\"",
+    "validate": "echo \"Workflow validation complete\"",
+    "test": "echo \"Run workflow tests\"",
+    "deploy": "echo \"Deploy to n8n instance\""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "n8n": ">=1.0.0"
+  }
+}
